@@ -8,6 +8,19 @@ Enfin un florilège complet pour équiper ordinateurs, tablettes et smartphones 
 ## 🚸 École
 
 ### 📏📐 Mathématiques
+<article class="framalibre-notice">
+    <div>
+      <img src="https://play-lh.googleusercontent.com/6934RGQsbt9iCBBxGXTzCrkWidyQ1mwbD4A_4979tpDiF1XLymlLbQfo-uUdCdFbSg=w240-h480">
+    </div>
+    <div>
+      <h4>120 secondes</h4>
+      <p>Application de Christophe Auclair, calcul mental chronométré pour le cycle 3 sur Android.</p>
+      <div>
+        <a href="https://play.google.com/store/apps/details?id=air.com.multimaths.A120s">Vers le Google Play</a>
+      </div>
+    </div>
+  </article> 
+
 ### 📚Français
 ### 🗺️Histoire géographie
 ### 🔬Sciences
