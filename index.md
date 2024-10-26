@@ -5,11 +5,6 @@ in_menu: true
 ---
 Enfin un florilège complet pour équiper ordinateurs, tablettes et smartphones avec une inclination pour le libre bien sûr.
 
-## 🎛️ Technique
-
-### ☁️ Cloud
-### ⚙️Système 
-
 ## 🚸 École
 
 ### 📏📐 Mathématiques
