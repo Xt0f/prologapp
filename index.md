@@ -21,6 +21,19 @@ Enfin un florilège complet pour équiper ordinateurs, tablettes et smartphones 
     </div>
   </article> 
 
+<article class="framalibre-notice">
+  <div>
+    <img src="https://apps.apple.com/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif">
+  </div>
+  <div>
+    <h4>FlashToPass</h4>
+    <p>Flash cards de mathématiques.</p>
+    <div>
+      <a href="https://apps.apple.com/ca/app/flashtopass-math-flash-cards/id330482882">Vers l'App Store</a>
+    </div>
+  </div>
+</article>
+
 ### 📚Français
 ### 🗺️Histoire géographie
 ### 🔬Sciences
